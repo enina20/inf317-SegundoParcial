@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="ALEXANDER-PC.AdventureWorks2019.sa"
+  DTS:DTSID="{D8BD29BD-C054-4FA8-B757-1BA076A25A21}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=ALEXANDER-PC;User ID=sa;Initial Catalog=AdventureWorks2019;Persist Security Info=True;Application Name=SSIS-AdventureWorksETL-{D8BD29BD-C054-4FA8-B757-1BA076A25A21}ALEXANDER-PC.AdventureWorks2019.sa;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
